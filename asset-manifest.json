@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ranek/static/css/main.cf1e3598.chunk.css",
+    "main.js": "/ranek/static/js/main.4dcf042b.chunk.js",
+    "main.js.map": "/ranek/static/js/main.4dcf042b.chunk.js.map",
+    "runtime-main.js": "/ranek/static/js/runtime-main.6c8d40b3.js",
+    "runtime-main.js.map": "/ranek/static/js/runtime-main.6c8d40b3.js.map",
+    "static/js/2.073abef2.chunk.js": "/ranek/static/js/2.073abef2.chunk.js",
+    "static/js/2.073abef2.chunk.js.map": "/ranek/static/js/2.073abef2.chunk.js.map",
+    "index.html": "/ranek/index.html",
+    "static/css/main.cf1e3598.chunk.css.map": "/ranek/static/css/main.cf1e3598.chunk.css.map",
+    "static/js/2.073abef2.chunk.js.LICENSE.txt": "/ranek/static/js/2.073abef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8d40b3.js",
+    "static/js/2.073abef2.chunk.js",
+    "static/css/main.cf1e3598.chunk.css",
+    "static/js/main.4dcf042b.chunk.js"
+  ]
+}
