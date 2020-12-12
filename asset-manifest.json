@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mini-dogs/static/css/main.cf1e3598.chunk.css",
-    "main.js": "/mini-dogs/static/js/main.4dcf042b.chunk.js",
-    "main.js.map": "/mini-dogs/static/js/main.4dcf042b.chunk.js.map",
+    "main.css": "/mini-dogs/static/css/main.dccd05f2.chunk.css",
+    "main.js": "/mini-dogs/static/js/main.43870ceb.chunk.js",
+    "main.js.map": "/mini-dogs/static/js/main.43870ceb.chunk.js.map",
     "runtime-main.js": "/mini-dogs/static/js/runtime-main.7155546e.js",
     "runtime-main.js.map": "/mini-dogs/static/js/runtime-main.7155546e.js.map",
-    "static/js/2.073abef2.chunk.js": "/mini-dogs/static/js/2.073abef2.chunk.js",
-    "static/js/2.073abef2.chunk.js.map": "/mini-dogs/static/js/2.073abef2.chunk.js.map",
+    "static/js/2.ee1d21b2.chunk.js": "/mini-dogs/static/js/2.ee1d21b2.chunk.js",
+    "static/js/2.ee1d21b2.chunk.js.map": "/mini-dogs/static/js/2.ee1d21b2.chunk.js.map",
     "index.html": "/mini-dogs/index.html",
-    "static/css/main.cf1e3598.chunk.css.map": "/mini-dogs/static/css/main.cf1e3598.chunk.css.map",
-    "static/js/2.073abef2.chunk.js.LICENSE.txt": "/mini-dogs/static/js/2.073abef2.chunk.js.LICENSE.txt"
+    "static/css/main.dccd05f2.chunk.css.map": "/mini-dogs/static/css/main.dccd05f2.chunk.css.map",
+    "static/js/2.ee1d21b2.chunk.js.LICENSE.txt": "/mini-dogs/static/js/2.ee1d21b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7155546e.js",
-    "static/js/2.073abef2.chunk.js",
-    "static/css/main.cf1e3598.chunk.css",
-    "static/js/main.4dcf042b.chunk.js"
+    "static/js/2.ee1d21b2.chunk.js",
+    "static/css/main.dccd05f2.chunk.css",
+    "static/js/main.43870ceb.chunk.js"
   ]
 }
